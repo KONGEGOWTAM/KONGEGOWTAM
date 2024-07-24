@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongegowtam&label=Profile%20views&color=0e75b6&style=flat" alt="kongegowtam" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/K-GOWTAM](https://codebasics.io/portfolio/K-GOWTAM)
 
