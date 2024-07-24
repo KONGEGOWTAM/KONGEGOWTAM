@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm KONGE GOWTAM</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
-<p align="left"> <img src="https://chools.in/wp-content/uploads/data-science-2-1.gif" alt="kongegowtam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kongegowtam&label=Profile%20views&color=0e75b6&style=flat" alt="kongegowtam" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
